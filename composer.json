@@ -1,0 +1,17 @@
+{
+    "name": "adexe/dsw2023-tienda-carrito",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adexe\\Dsw2023TiendaCarrito\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adexe"
+        }
+    ]
+}
